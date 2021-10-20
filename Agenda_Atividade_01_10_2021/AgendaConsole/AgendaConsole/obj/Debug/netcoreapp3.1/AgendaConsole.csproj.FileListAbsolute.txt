@@ -1,0 +1,13 @@
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\obj\Debug\netcoreapp3.1\AgendaConsole.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\obj\Debug\netcoreapp3.1\AgendaConsole.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\obj\Debug\netcoreapp3.1\AgendaConsole.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\obj\Debug\netcoreapp3.1\AgendaConsole.AssemblyInfo.cs
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\bin\Debug\netcoreapp3.1\AgendaConsole.exe
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\bin\Debug\netcoreapp3.1\AgendaConsole.deps.json
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\bin\Debug\netcoreapp3.1\AgendaConsole.runtimeconfig.json
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\bin\Debug\netcoreapp3.1\AgendaConsole.runtimeconfig.dev.json
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\bin\Debug\netcoreapp3.1\AgendaConsole.dll
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\bin\Debug\netcoreapp3.1\AgendaConsole.pdb
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\obj\Debug\netcoreapp3.1\AgendaConsole.dll
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\obj\Debug\netcoreapp3.1\AgendaConsole.pdb
+C:\Users\diego\source\repos\AgendaConsole\AgendaConsole\obj\Debug\netcoreapp3.1\AgendaConsole.genruntimeconfig.cache
